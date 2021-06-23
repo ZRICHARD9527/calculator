@@ -1,0 +1,11 @@
+E:\All-Program\ConsoleApp\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+E:\All-Program\ConsoleApp\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+E:\All-Program\ConsoleApp\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+E:\All-Program\ConsoleApp\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+E:\All-Program\ConsoleApp\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+E:\All-Program\ConsoleApp\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+E:\All-Program\ConsoleApp\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+E:\All-Program\ConsoleApp\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+E:\All-Program\ConsoleApp\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+E:\All-Program\ConsoleApp\Calculator1\Calculator1\obj\Debug\Calculator1.Form2.resources
+E:\All-Program\ConsoleApp\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.AssemblyReference.cache
